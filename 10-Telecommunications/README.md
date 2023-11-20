@@ -25,3 +25,7 @@ Python, Pandas, NumPy, CatBoost, sklearn, matplotlib.pyplot, seaborn
 * phone_new.csv — информация об услугах телефонии.
   
 Во всех файлах столбец customerID содержит код клиента.
+
+### Выводы
+
+Построена модель, которая прогнозирует отток клиентов. Проект завершен.
